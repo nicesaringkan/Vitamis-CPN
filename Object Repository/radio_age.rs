@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_age</name>
+   <tag></tag>
+   <elementGuidId>7daeaa5c-56a2-4de5-9eac-4bccb14d4059</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='question_element']/descendant::label[@class=&quot;checkmark&quot;][${age}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='question_element']/descendant::label[@class=&quot;checkmark&quot;][${age}]</value>
+   </webElementProperties>
+</WebElementEntity>

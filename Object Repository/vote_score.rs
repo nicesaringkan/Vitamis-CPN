@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>vote_score</name>
+   <tag></tag>
+   <elementGuidId>805f4fb7-d69c-4013-acdb-79d587828883</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='page_body']/descendant::div[@class='choices'][${rowNo}]/div/descendant::span[@class='checkmark'][${vote}]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='page_body']/descendant::div[@class='choices'][${rowNo}]/div/descendant::span[@class='checkmark'][${vote}]</value>
+   </webElementProperties>
+</WebElementEntity>
